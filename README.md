@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Fihriz Ilham Rabbany  
+**NRP**: 5025211040  
+**Judul TA**: IMPLEMENTASI BIRD’S EYE VIEW PADA DASHCAM KENDARAAN UNTUK ANALISIS LINGKUNGAN JALAN
+**Dosen Pembimbing**: Rully Soelaiman, S.Kom., M.Kom.  
+**Dosen Ko-pembimbing**: Dr. Eng. Muhamad Hilmil Muchtar Aditya Pradana, S.Kom., M.Sc.
 
 ---
 
@@ -22,10 +22,7 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
 
 ### Prasyarat  
 - Daftar dependensi (contoh):
-  - Python 3.10+
-  - Node.js v18+
-  - MySQL 8.0
-  - [Lainnya...]
+  - Python 3.8
 
 ### Langkah-langkah  
 1. **Clone Repository**  
@@ -71,5 +68,6 @@ Pastikan proyek memenuhi kriteria berikut sebelum submit:
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [email@mahasiswa]
-- Pembimbing Utama: [email@pembimbing]
+- Penulis: fihrizilhamr@gmail.com
+- Pembimbing I:
+- Pembimbing II:
